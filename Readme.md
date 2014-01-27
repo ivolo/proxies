@@ -25,7 +25,7 @@ Here are the existing sources:
 - [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker)
 - [proxynova](https://github.com/brianc/node-proxynova)
 
-More are always welcome!
+More sources are always welcome!
 
 ## API 
 
