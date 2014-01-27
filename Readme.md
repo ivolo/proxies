@@ -19,6 +19,14 @@ proxies.get(function (err, list) {
 });
 ```
 
+## Sources
+
+Here are the existing sources:
+- [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker) - scrapers [proxyipchecker.com](https://github.com/ivolo/proxies-proxyipchecker)
+- [proxynova](https://github.com/brianc/node-proxynova)
+
+More are always welcome!
+
 ## API 
 
 ### Proxies
@@ -37,3 +45,17 @@ proxies.get(function (err, list) {
 
   Add a proxy list function.
 
+## Licence
+
+```
+WWWWWW||WWWWWW
+ W W W||W W W
+      ||
+    ( OO )__________
+     /  |           \
+    /o o|    MIT     \
+    \___/||_||__||_|| *
+         || ||  || ||
+        _||_|| _||_||
+       (__|__|(__|__|
+```
