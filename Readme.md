@@ -22,7 +22,7 @@ proxies.get(function (err, list) {
 ## Sources
 
 Here are the existing sources:
-- [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker) - scrapers [proxyipchecker.com](https://github.com/ivolo/proxies-proxyipchecker)
+- [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker)
 - [proxynova](https://github.com/brianc/node-proxynova)
 
 More are always welcome!
