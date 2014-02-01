@@ -1,4 +1,3 @@
-
 # proxies
 
   Constantly evaluate lists of proxies, and get one that works.
@@ -23,7 +22,7 @@ proxies.get(function (err, list) {
 
 Here are the existing sources:
 - [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker)
-- [proxynova](https://github.com/brianc/node-proxynova)
+- [freeproxylist](https://github.com/ivolo/proxies-freeproxylist)
 
 More sources are always welcome!
 
