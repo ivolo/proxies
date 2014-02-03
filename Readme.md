@@ -25,7 +25,7 @@ Here are the existing sources:
 - [freeproxylist](https://github.com/ivolo/proxies-freeproxylist) - free
 - [webknox](https://github.com/ivolo/proxies-webknox) - paid
 
-More sources are always welcome!
+More sources are always welcome! A great way to find public proxy text files is via this [secret google search](https://www.google.com/search?q=%2B%C3%A2%E2%82%AC%C2%9D%3A8080%C3%A2%E2%82%AC%C2%B3+%2B%C3%A2%E2%82%AC%C2%9D%3A3128%C3%A2%E2%82%AC%C2%B3+%2B%C3%A2%E2%82%AC%C2%9D%3A80%C3%A2%E2%82%AC%C2%B3+filetype%3Atxt#aq=f&aqi=&aql=&q=%2B%E2%80%9D:8080%E2%80%B3+%2B%E2%80%9D%3A3128%E2%80%B3+%2B%E2%80%9D%3A80%E2%80%B3+filetype%3Atxt). 
 
 ## API 
 
