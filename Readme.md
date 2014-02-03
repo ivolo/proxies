@@ -21,8 +21,9 @@ proxies.get(function (err, list) {
 ## Sources
 
 Here are the existing sources:
-- [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker)
-- [freeproxylist](https://github.com/ivolo/proxies-freeproxylist)
+- [proxyipchecker](https://github.com/ivolo/proxies-proxyipchecker) - free
+- [freeproxylist](https://github.com/ivolo/proxies-freeproxylist) - free
+- [webknox](https://github.com/ivolo/proxies-webknox) - paid
 
 More sources are always welcome!
 
